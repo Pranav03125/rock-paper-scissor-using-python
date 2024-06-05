@@ -1,1 +1,1 @@
-# rock-paper-scissor-using-python
+MY project "ROCK PAPER SCISSCOR" using python is an interactive game ,I have used tkinter for the interface between the user and the computer,the user select between three option rock ,paper,scissor and using random module in python the computer chooses one of the three option and generates the result 
